@@ -3,7 +3,7 @@
     "builds": [
         {
             "src": "app/page.js", 
-            "use": "@vercel/next" 
+            "use": "@vercel/node" 
         }
     ],
     "routes": [
